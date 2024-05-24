@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Software Engineer Student</h3>
 💙 I'm currently working on frontend development projects<br>🌀   I'm looking to colaborate with  software, frontend and web developers<br>💙 Fun fact - I'm a cool introvert who's sense of humor is based on dad jokes ... but i'm still cool : )
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunny-deny&label=Profile%20views&color=0e75b6&style=flat" alt="sunny-deny" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sunny-deny&label=Profile%20views&color=0e75b6&style=flat" alt="sunny-deny" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
