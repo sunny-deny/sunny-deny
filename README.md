@@ -1,4 +1,4 @@
-<p align="center" ><img  src = "https://github.com/sunny-deny/sunny-deny/blob/main/pixlr-image-generator-664fe6d8dc15dab1be9be565-removebg-preview.png" width =100px></p>
+<p align="center" ><img  src = "https://github.com/sunny-deny/sunny-deny/blob/main/Design sem nome (1).png" width =100px></p>
 
 <h1 align="center">Hello World 👋, you can call me Deni!</h1>
 <h3 align="center">I´m a Passionate Software Engineer Student</h3>
