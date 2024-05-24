@@ -1,6 +1,6 @@
 <p align="center" ><img  src = "https://github.com/sunny-deny/sunny-deny/blob/main/pixlr-image-generator-664fe6d8dc15dab1be9be565-removebg-preview.png" width =100px></p>
 
-<h1 align="center">Hi 👋, you can call me Deni!</h1>
+<h1 align="center">Hello World 👋, you can call me Deni!</h1>
 <h3 align="center">I´m a Passionate Software Engineer Student</h3>
 💙 I'm currently working on frontend development projects<br>🌻   I'm looking to colaborate with  software, frontend and web developers<br>💙 Fun fact - I'm an introvert who's sense of humor is based on dad jokes ... but i'm still cool : )
 <p/>
