@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, you can call me Deni!</h1>
 <h3 align="center">I´m a Passionate Software Engineer Student</h3>
-💙 I'm currently working on frontend development projects<br>🌀   I'm looking to colaborate with  software, frontend and web developers<br>💙 Fun fact - I'm a cool introvert who's sense of humor is based on dad jokes ... but i'm still cool : )
+💙 I'm currently working on frontend development projects<br>🌻   I'm looking to colaborate with  software, frontend and web developers<br>💙 Fun fact - I'm an introvert who's sense of humor is based on dad jokes ... but i'm still cool : )
 <p/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sunny-deny&label=Profile%20views&color=0e75b6&style=flat" alt="sunny-deny" /> </p>
 
