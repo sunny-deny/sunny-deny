@@ -23,11 +23,7 @@
 
 <h3 align="center">📊 My Statistics</h3>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny-deny&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=1800&v=1"
-  />
-</p>
+<p align="center"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sunny-deny&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/> </p>
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=sunny-deny&theme=tokyonight&hide_border=true" />
 </p>
