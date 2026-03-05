@@ -1,28 +1,40 @@
-<p align="center" ><img  src = "https://github.com/sunny-deny/sunny-deny/blob/main/cartoon.png" width =400px></p>
-
-<h1 align="center">Hello World 👋, you can call me Deni!</h1>
-<h3 align="center">I´m a Passionate Software Engineer Student</h3>
-💙 I'm currently working on frontend development projects<br>🌻   I'm looking to colaborate with  software, frontend and web developers<br>💙 Fun fact - I'm an introvert who's sense of humor is based on dad jokes ... but i'm still cool : )
-<p/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sunny-deny&label=Profile%20views&color=0e75b6&style=flat" alt="sunny-deny" /> </p>
-
-<h3 align="center">My Statistics:</h3>
 <p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=sunny-deny&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sunny-deny&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
+  <img src="https://raw.githubusercontent.com/sunny-deny/sunny-deny/main/cartoon.png" width="400px"/>
+</p>
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sunny-deny&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
+<h1 align="center">Hello World 👋, I'm Denise!</h1>
+<h3 align="center">Software Engineering Student</h3>
+<p align="center">
+💙 Passionate about building clean, user-friendly applications and learning new technologies.<br>  
+🌻 Currently focused on <b>frontend development, mobile apps, and modern web technologies</b>.<br>
+💙 I enjoy turning ideas into functional products and collaborating with other developers.
+
+</p>
+<h3 align="center">🤝 Let's Connect</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/denise-do-carmo">LinkedIn</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sunny-deny&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+<h3 align="center">📊 My Statistics</h3>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sunny-deny&show_icons=true&theme=tokyonight&count_private=true" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=sunny-deny&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny-deny&layout=compact&theme=tokyonight" />
+</p>
+
 <h3 align="left">🛠 Languages and Tools</h3>
 
 <p align="left">
