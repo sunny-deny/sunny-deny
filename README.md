@@ -24,16 +24,12 @@
 <h3 align="center">📊 My Statistics</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sunny-deny&show_icons=true&theme=tokyonight&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny-deny&layout=compact&theme=tokyonight&langs_count=10" />
 </p>
-
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=sunny-deny&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny-deny&layout=compact&theme=tokyonight" />
-</p>
 
 <h3 align="left">🛠 Languages and Tools</h3>
 
