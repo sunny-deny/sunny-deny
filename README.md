@@ -24,7 +24,9 @@
 <h3 align="center">📊 My Statistics</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny-deny&layout=compact&theme=tokyonight&langs_count=10" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny-deny&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=1800&v=1"
+  />
 </p>
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=sunny-deny&theme=tokyonight&hide_border=true" />
